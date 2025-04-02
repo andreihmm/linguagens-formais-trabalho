@@ -1,0 +1,14 @@
+00 aceita
+11 aceita
+010 aceita
+101 aceita
+110 nao aceita
+01 nao aceita
+1001 aceita
+0011 nao aceita
+1110 nao aceita
+1101 nao aceita
+1010 nao aceita
+010101 nao aceita
+00011 nao aceita
+11100 nao aceita
