@@ -1,0 +1,1 @@
+Trabalho feito para a matéria de Linguagens formais e autômatos. O objetivo deste trrabalho foi praticar python enquanto aprimorava meus conhecimentos sobre o algoritmo de conversão de um autômato finito não determinístico em um autômato finito determinístico.
