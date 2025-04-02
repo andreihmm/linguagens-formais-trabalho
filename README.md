@@ -9,7 +9,6 @@ Este projeto foi desenvolvido como parte da disciplina **Linguagens Formais e Au
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python 3.x**
-- Estruturas de dados como **dicionários** e **conjuntos** para representar estados e transições.
 
 ## 📖 Como funciona a conversão?
 O algoritmo segue os seguintes passos:
